@@ -19,10 +19,9 @@ pyDOE
 
 ```bash
 cd src
+mkdir vertices
 python aonn2.py
 ```
-
-![illustration](assets/illustration.png)
 
 
 
